@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "format": "prettier --write src next.config.js jsconfig.json README.md",
+    "format:check": "prettier --check src next.config.js jsconfig.json README.md"
   },
   "engines": {
     "node": ">=20.9.0"
@@ -16,5 +18,8 @@
     "next": "^16.4.3",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10"
   }
 }

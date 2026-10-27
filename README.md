@@ -1,31 +1,57 @@
-# Lunara — Next.js + Bootstrap 5
+# Lunara
 
-## Run locally
+A React website built with **Next.js App Router** and **Bootstrap 5**.
+
+## Development
 
 Requires Node.js 20.9 or newer.
 
-```powershell
+```bash
 npm install
 npm run dev
 ```
 
-Open http://localhost:3000. Stop with Ctrl+C.
-For another port: `npm run dev -- --port 3001`.
+Open http://localhost:3000. Use `npm run dev -- --port 3001` for a different port.
 
 ## Production
 
-```powershell
+```bash
 npm run build
 npm start
 ```
 
-## Project structure
+## Structure
 
-- `pages/`: Next.js React pages. Clean routes include `/about`, `/contact`, and `/safety-check`.
-- `components/react/`: shared header, footer, theme controls, and contact form.
-- `public/`: images, fonts, and the original standalone presentation export.
-- `css/`: custom design styles. Bootstrap 5 and Bootstrap Icons are imported from npm in `pages/_app.js`.
-- Existing `.html` page URLs redirect to their matching Next.js routes.
+```text
+src/
+  app/                 # Routes, metadata, root layout, and 404 page
+  components/
+    layout/            # Shared logo, header, footer, and page shell
+    forms/             # Interactive contact form
+    home/              # Homepage sections
+    about/             # About page sections
+    safety-check/      # Safety Hub sections
+    contact/           # Contact page sections
+  styles/              # Bootstrap-compatible custom styles
+public/                # Images, fonts, and static presentation export
+```
 
-The contact form prepares an email draft; it does not claim to send messages through a backend.
-The original root HTML, component templates, and standalone scripts are retained as migration references. The Next.js application uses `pages/` and `components/react/`; edit those for ongoing development. The original static server and migration helper are not part of the runtime.
+Pages and presentation sections are React Server Components. The header and contact
+form are Client Components for theme switching, navigation, and form interactions.
+Each route exports its metadata through Next.js. Internal navigation uses Next Link.
+Bootstrap 5 CSS and Bootstrap Icons are installed through npm and imported once in
+the root layout. Custom styles preserve the current responsive designs.
+
+The legacy booking, partnership, and legal page designs remain supported, with their
+styles isolated in `src/styles/legacy.css`. The original standalone HTML site and
+static server have been removed. All `.html` page URLs redirect to clean Next routes.
+
+The contact form prepares an email draft in the visitor's email app. It does not
+send mail through a backend or claim that a message has been delivered.
+
+## Formatting
+
+```bash
+npm run format
+npm run format:check
+```
