@@ -55,3 +55,11 @@ send mail through a backend or claim that a message has been delivered.
 npm run format
 npm run format:check
 ```
+
+## Vercel deployment
+
+Import this repository with the root directory set to the repository root (leave
+Root Directory empty). `vercel.json` selects the Next.js framework, runs `npm ci`
+and `npm run build`, and uses `.next` as the build output. Do not select `public`
+as the deployment output; that folder contains assets, not the application routes.
+After changing deployment settings, redeploy the latest commit.
