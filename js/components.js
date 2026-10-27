@@ -53,6 +53,7 @@
       bootstrap.Offcanvas.getOrCreateInstance(offcanvasEl);
     }
     highlightActiveNav();
+    document.dispatchEvent(new Event('lunara:header-ready'));
   }
 
   // Boot: inject header then footer when DOM is ready
@@ -62,3 +63,4 @@
     loadComponent('footer', base + 'components/footer.html');
   });
 })();
+

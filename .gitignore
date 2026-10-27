@@ -5,3 +5,7 @@ Brand Guidelines - Lunara (1).pdf
 .vscode/
 .DS_Store
 Thumbs.db
+node_modules/
+.next/
+out/
+*.log

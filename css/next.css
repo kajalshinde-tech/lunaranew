@@ -1,0 +1,10 @@
+/* Preserve the custom design over Bootstrap Reboot and use its form/grid utilities. */
+body{font-family:Outfit,Arial,sans-serif;background:var(--paper);color:var(--ink)}
+.creative-home p{margin-bottom:0}.creative-home .origin-copy p{margin-bottom:18px}.creative-home .safe-hero p{margin-bottom:28px}.creative-home .form-intro{margin-bottom:28px}
+#contact-form .field-grid{display:flex;gap:0;margin-bottom:0}#contact-form .contact-field{min-width:0}#contact-form .full-field{width:100%}
+.creative-nav nav a[aria-current=page]{color:#a875a2}
+.legacy-page{background:var(--paper);color:var(--ink);min-height:100vh}.legacy-page .page-header h1,.legacy-page .page-header p{color:#fff!important}
+.legacy-page .creative-nav,.legacy-page .creative-footer{font-family:Outfit,Arial,sans-serif}
+html[data-theme=light] .legacy-page{--bg-primary:#f8f6f2;--bg-secondary:#eee8f4;--bg-card:#fff;--text-primary:#23142f;--text-secondary:#62556c;--text-muted:#75697d;--gradient-text:linear-gradient(135deg,#4d2865,#9060ab)}
+html[data-theme=light] .legacy-page .section-subtitle{color:#62556c}
+html[data-theme=light] .legacy-page .section-title{color:#4d2865}
