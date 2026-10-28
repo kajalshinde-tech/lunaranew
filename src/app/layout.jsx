@@ -8,8 +8,8 @@ import '@/styles/safety.css';
 import '@/styles/contact.css';
 import '@/styles/next.css';
 export const metadata = {
-  title: { default: 'Lunara — Real connections', template: '%s' },
-  description: 'A little spark. A real connection.',
+  title: { default: 'Lunara — Real Connections', template: '%s' },
+  description: 'A dating app for thoughtful connections and real-world plans.',
   icons: { icon: '/images/logo/favicon.svg' },
 };
 const themeScript = `(function(){var t='light';try{t=localStorage.getItem('lunara-theme')||t}catch(e){}t=t==='dark'?'dark':'light';document.documentElement.dataset.theme=t;document.documentElement.dataset.bsTheme=t;})();`;
@@ -29,3 +29,15 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+import '@/styles/content.css';
+import '@/styles/compact.css';
+import '@/styles/reference-format.css';
+
+import '@/styles/app-showcase.css';
+
+import '@/styles/premium-tiers.css';
+
+import '@/styles/explore-details.css';
+
+import '@/styles/privacy-policy.css';

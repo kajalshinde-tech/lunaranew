@@ -12,7 +12,9 @@ export default function ContactDetails() {
           <em>{'your mind?'}</em>
         </h2>
         <p className="form-intro">
-          {'Tell us a little about it. We’ll help you prepare an email to the right team.'}
+          {
+            'Send us a message. Our team will get back to you within 24 hours. This form prepares an email for you to send.'
+          }
         </p>
         <ContactForm />
       </div>
@@ -33,7 +35,7 @@ export default function ContactDetails() {
           <span className="dating-kicker">{'GOOD THINGS, TOGETHER'}</span>
           <h3>{'Let’s make something happen.'}</h3>
           <p>{'For venue partnerships and ideas worth exploring.'}</p>
-          <a href="mailto:partnerships@lunara.club">{'partnerships@lunara.club ↗'}</a>
+          <a href="mailto:support@lunara.buzz">{'support@lunara.buzz ↗'}</a>
           <Link className="small-route" href="/partners">
             {'Explore partnerships ↗'}
           </Link>
@@ -41,13 +43,18 @@ export default function ContactDetails() {
         <div className="contact-details">
           <div>
             <span className="dating-kicker">{'GIVE US A RING'}</span>
-            <a href="tel:+919067565606">{'+91 90675 65606'}</a>
-            <a href="tel:+919421004137">{'+91 94210 04137'}</a>
+            <a href="tel:+917823817313">{'+91 78238 17313'}</a>
           </div>
           <div>
             <span className="dating-kicker">{'FIND US IN PUNE'}</span>
             <p>
-              {'Hinjewadi IT Park, Phase 1'}
+              <a
+                href="https://maps.google.com/?q=Hinjewadi+IT+Park,+Phase+1,+Pune,+Maharashtra,+India"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {'Hinjewadi IT Park, Phase 1'}
+              </a>
               <br />
               {'Pune, Maharashtra, India'}
             </p>

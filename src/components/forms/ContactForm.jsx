@@ -6,8 +6,7 @@ export default function ContactForm() {
   function submit(event) {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    const recipient =
-      data.get('subject') === 'Partnership' ? 'partnerships@lunara.club' : 'support@lunara.buzz';
+    const recipient = 'support@lunara.buzz';
     let body = `Name: ${data.get('name').trim()}\nEmail: ${data.get('email').trim()}`;
     if (data.get('phone').trim()) body += `\nPhone: ${data.get('phone').trim()}`;
     body += `\n\n${data.get('message').trim()}`;

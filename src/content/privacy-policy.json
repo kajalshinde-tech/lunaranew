@@ -1,0 +1,303 @@
+[
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "nav",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "ol",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/"
+                        },
+                        "children": ["Home"]
+                      }
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["Privacy Policy"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "h1",
+            "attrs": {},
+            "children": [
+              "Privacy ",
+              {
+                "tag": "span",
+                "attrs": {},
+                "children": ["Policy"]
+              }
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": ["Last Updated: April 2026"]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "main",
+    "attrs": {
+      "className": "container"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "source-card"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": ["1. Information We Collect"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "LUNARA collects information to provide better services to all our users. We collect information in the\n          following ways:"
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "ul",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "strong",
+                        "attrs": {},
+                        "children": ["Information you give us:"]
+                      },
+                      " When you sign up for an account, we ask for personal information\n            like your name, email address, telephone number, and payment details."
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "strong",
+                        "attrs": {},
+                        "children": ["Information we get from your use of our services:"]
+                      },
+                      " We collect information about the\n            services that you use and how you use them, like when you visit a venue or interact with our content."
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": ["2. How We Use Information"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "We use the information we collect from all our services to provide, maintain, protect and improve them, to\n          develop new ones, and to protect LUNARA and our users."
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "We also use this information to offer you tailored content – like giving you more relevant search results and\n          ads."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": ["3. Data Security"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "We work hard to protect LUNARA and our users from unauthorized access to or unauthorized alteration,\n          disclosure or destruction of information we hold."
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "ul",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["We encrypt many of our services using SSL."]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      "We review our information collection, storage and processing practices, including physical security\n            measures, to guard against unauthorized access to systems."
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": ["4. Information We Share"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "We do not share personal information with companies, organizations and individuals outside of LUNARA unless\n          one of the following circumstances applies:"
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "ul",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["With your consent."]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["For external processing."]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["For legal reasons."]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": ["5. Contact Us"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "If you have any questions about this Privacy Policy, please contact us at ",
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "mailto:support@lunara.buzz"
+                    },
+                    "children": ["support@lunara.buzz"]
+                  },
+                  "."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  }
+]

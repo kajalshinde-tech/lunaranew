@@ -9,3 +9,5 @@ node_modules/
 .next/
 out/
 *.log
+
+.content-audit/

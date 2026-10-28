@@ -1,0 +1,983 @@
+[
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "nav",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "ol",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/"
+                        },
+                        "children": ["Home"]
+                      }
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["Safety Check"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "h1",
+            "attrs": {},
+            "children": [
+              "Safety ",
+              {
+                "tag": "span",
+                "attrs": {},
+                "children": ["Check"]
+              }
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": ["Your safety is our priority. Please share your experience."]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "source-card"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": ["\n            ", "\n          "]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Safety Shield Active"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": ["LUNARA Secure Ecosystem v4.2"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["100%"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Verified Venues"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["24/7"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Active Support"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": ["\n          ", " System Live & Protected\n        "]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "id": "core-protections-section",
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Core ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Protections"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": ["Enterprise-grade security tools built into every booking."]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["\n              ", "✓", "\n            "]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["AI Verification"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Biometric photo matching ensures every user profile is 100% authentic\n              before meeting."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["\n              ", "\n            "]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Privacy Stealth"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Toggle your visibility on/off. Share your location only with confirmed\n              matches you trust."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["\n              ", "\n            "]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["SOS Integration"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "One-tap emergency button connected directly to venue security and local\n              authorities."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["\n              ", "\n            "]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Smart Billing"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Transparent menu pricing and split-payment tools protect you from venue\n              scams."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-5"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "h2",
+                        "attrs": {},
+                        "children": [
+                          "Safety ",
+                          {
+                            "tag": "span",
+                            "attrs": {},
+                            "children": ["Guidelines"]
+                          }
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Our community is built on trust. Review our comprehensive guides for digital\n              and physical safety."
+                        ]
+                      },
+                      "\n\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h6",
+                            "attrs": {},
+                            "children": ["Digital Safety First"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "Keep your private data off the chat. Use LUNARA's secure messaging\n                for all coordination."
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h6",
+                            "attrs": {},
+                            "children": ["Meetup Etiquette"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "Respect boundaries and always inform a trusted friend about your\n                plans."
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-7"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "id": "safetyAccordion"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h2",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "h3",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  " Billing & Fraud Prevention\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "id": "collapseOne"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  LUNARA provides complete transparency and smart payment controls to protect you from unfair charges.\n                  ",
+                                  {
+                                    "tag": "ul",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "li",
+                                        "attrs": {},
+                                        "children": [
+                                          "View complete venue menus and pricing before you book."
+                                        ]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "li",
+                                        "attrs": {},
+                                        "children": [
+                                          "Use ",
+                                          {
+                                            "tag": "strong",
+                                            "attrs": {},
+                                            "children": ["Split Payment"]
+                                          },
+                                          " to pay only for your share."
+                                        ]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "li",
+                                        "attrs": {},
+                                        "children": [
+                                          "Verify all applicable charges (GST, Service Fees) in advance."
+                                        ]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h2",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "h3",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  " Digital Chat & Video Safety\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "id": "collapseTwo"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  Interacting safely in the digital space is vital. Keep your personal data secure.\n                  ",
+                                  {
+                                    "tag": "ul",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "li",
+                                        "attrs": {},
+                                        "children": [
+                                          "Keep conversations within LUNARA until you fully trust the person."
+                                        ]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "li",
+                                        "attrs": {},
+                                        "children": [
+                                          "Watch for users who push for inappropriate video calls."
+                                        ]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "li",
+                                        "attrs": {},
+                                        "children": [
+                                          "Use our ",
+                                          {
+                                            "tag": "strong",
+                                            "attrs": {},
+                                            "children": ["Block & Report"]
+                                          },
+                                          " tools for any discomfort."
+                                        ]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h2",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "h3",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  " Respect & Etiquette\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "id": "collapseThree"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  Our community thrives on mutual respect.\n                  ",
+                                  {
+                                    "tag": "div",
+                                    "attrs": {
+                                      "className": "row"
+                                    },
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "div",
+                                        "attrs": {
+                                          "className": "col-sm-4"
+                                        },
+                                        "children": [
+                                          "\n                      ",
+                                          {
+                                            "tag": "div",
+                                            "attrs": {},
+                                            "children": ["For Men"]
+                                          },
+                                          "\n                    "
+                                        ]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "div",
+                                        "attrs": {
+                                          "className": "col-sm-4"
+                                        },
+                                        "children": [
+                                          "\n                      ",
+                                          {
+                                            "tag": "div",
+                                            "attrs": {},
+                                            "children": ["For Women"]
+                                          },
+                                          "\n                    "
+                                        ]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "div",
+                                        "attrs": {
+                                          "className": "col-sm-4"
+                                        },
+                                        "children": [
+                                          "\n                      ",
+                                          {
+                                            "tag": "div",
+                                            "attrs": {},
+                                            "children": ["Everyone"]
+                                          },
+                                          "\n                    "
+                                        ]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "p",
+                                    "attrs": {},
+                                    "children": [
+                                      "Be honest, kind, and mindful of each other’s time. Avoid last-minute\n                    cancellations or disrespectful conduct."
+                                    ]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "row"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "col-lg-8"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "h3",
+                        "attrs": {},
+                        "children": ["Still have questions?"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Our dedicated safety response team is available 24/7 to assist with any\n              concerns regarding your LUNARA experience."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "col-lg-4"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/contact"
+                        },
+                        "children": ["Talk to Safety Team"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": ["\n    "]
+      },
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "source-card"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Secure the ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Night"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Read our detailed community guidelines to understand\n          how we keep our space safe for everyone."
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/community-guidelines"
+                    },
+                    "children": ["Community Guidelines"]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/"
+                    },
+                    "children": ["Back to Home"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  }
+]

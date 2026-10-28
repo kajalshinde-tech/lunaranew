@@ -1,0 +1,1040 @@
+[
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "nav",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "ol",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/"
+                        },
+                        "children": ["Home"]
+                      }
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["Booking & Matching"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "h1",
+            "attrs": {},
+            "children": [
+              "How ",
+              {
+                "tag": "span",
+                "attrs": {},
+                "children": ["LUNARA"]
+              },
+              " Works"
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "Discover venues, plan outings, and turn online matches into real meetups safely."
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": ["LUNARA in 2 Parts"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "We combine discovery with connection. It's not just a booking app, and it's not just a matching app."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h3",
+                        "attrs": {},
+                        "children": ["1. Venue Booking"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Like Zomato, but Social"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Users can seamlessly browse pubs, cafés, lounges, and rooftops. View fresh menus, transparent pricing, and secure your spot."
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": ["✓", " Book tables for solo or groups"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": ["✓", " Get exclusive deals and discounts"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": ["✓", " Instant direct booking directly via Lunara"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h3",
+                        "attrs": {},
+                        "children": ["2. Venue-Based Matching"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Our Main Feature"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "People don’t just chat — they plan and meet at a venue. LUNARA turns online matches into real meetups."
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [" Create a profile and select a venue"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [" Publish your plan or send personal invites"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [" Match, confirm table, split pay, and meet!"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-5"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Safety First"]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "h2",
+                    "attrs": {},
+                    "children": [
+                      "User-Controlled Plan ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Privacy System"]
+                      }
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "p",
+                    "attrs": {},
+                    "children": [
+                      "Posting public plans online can be risky, especially for female users. LUNARA ensures that the user decides what to show, to whom, and when."
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          " ",
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": ["The Problem:"]
+                          },
+                          " Fully public plans allow anyone to track and show up uninvited."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "p",
+                    "attrs": {},
+                    "children": [
+                      "✓",
+                      " ",
+                      {
+                        "tag": "strong",
+                        "attrs": {},
+                        "children": ["The Solution:"]
+                      },
+                      " The \"Request to View Plan\" logic."
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-7"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["OPTION A"]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "h4",
+                                    "attrs": {},
+                                    "children": ["Full Public Visibility"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": ["\n                  ", "\n                "]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "The venue and exact time are visible to everyone. Not recommended for solo outings. ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["⚠ High Tracking Risk."]
+                              }
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n\n            ",
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["OPTION B"]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["★ HIGHLY RECOMMENDED"]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "h4",
+                                    "attrs": {},
+                                    "children": ["Limited Public Discovery"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": ["\n                  ", "\n                "]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "Only general ",
+                              {
+                                "tag": "strong",
+                                "attrs": {},
+                                "children": ["Area"]
+                              },
+                              " and ",
+                              {
+                                "tag": "strong",
+                                "attrs": {},
+                                "children": ["Timeframe"]
+                              },
+                              " are shown. Exact venue details remain hidden until you personally approve a match request."
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n\n            ",
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["OPTION C"]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "h4",
+                                    "attrs": {},
+                                    "children": ["Private / Invite-Only"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": ["\n                  ", "\n                "]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "Ultimate privacy. Your trip is hidden from everyone. You manually browse and send encrypted invites only to users you trust."
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": ["Confirmed Meetups Only"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "\"Every meetup on LUNARA is confirmed, tracked, and trusted.\" Say goodbye to casual flaking."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      \n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["✓"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Trusted Match Badge"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Only allow meetups with verified users sporting a high reliability score. Look for the trusted badge before confirming."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        \n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["✓"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Double Confirmation"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Before finalizing, both users are hit with a pre-meet chat nudge: \"Are you sure you will attend?\" Both users must confirm."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["★"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Reliability Score"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Every user has a visible rating (e.g. 95% Reliable) based on show-ups and authentic behavior. Good behavior is publicly rewarded."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-12"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "row"
+                        },
+                        "children": [
+                          "\n              ",
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "className": "col-lg-5"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  "\n                  ",
+                                  {
+                                    "tag": "h4",
+                                    "attrs": {},
+                                    "children": ["Platform Integrity"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "h5",
+                                "attrs": {},
+                                "children": ["Penalties for No-Shows"]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "ul",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  {
+                                    "tag": "li",
+                                    "attrs": {},
+                                    "children": [" Immediate 24h search suspension"]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "li",
+                                    "attrs": {},
+                                    "children": ["★", " Public Reliability Score reduction"]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "li",
+                                    "attrs": {},
+                                    "children": [" Discovery ranking penalty (-50%)"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n\n              ",
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "className": "col-lg-7"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  {
+                                    "tag": "div",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "h3",
+                                        "attrs": {},
+                                        "children": ["Solo Experience Mode"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "p",
+                                        "attrs": {},
+                                        "children": [
+                                          "Premium backup for when plans change unexpectedly."
+                                        ]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "div",
+                                    "attrs": {},
+                                    "children": ["AUTOMATIC"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {
+                                  "className": "row"
+                                },
+                                "children": [
+                                  "\n                  ",
+                                  {
+                                    "tag": "div",
+                                    "attrs": {
+                                      "className": "col-md-6"
+                                    },
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "div",
+                                        "attrs": {},
+                                        "children": [
+                                          "\n                      ",
+                                          {
+                                            "tag": "div",
+                                            "attrs": {},
+                                            "children": [
+                                              "\n                        ",
+                                              "\n                        ",
+                                              {
+                                                "tag": "h6",
+                                                "attrs": {},
+                                                "children": ["Priority Match"]
+                                              },
+                                              "\n                      "
+                                            ]
+                                          },
+                                          "\n                      ",
+                                          {
+                                            "tag": "p",
+                                            "attrs": {},
+                                            "children": [
+                                              "We push your profile to potential matches in the same area instantly."
+                                            ]
+                                          },
+                                          "\n                    "
+                                        ]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "div",
+                                    "attrs": {
+                                      "className": "col-md-6"
+                                    },
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "div",
+                                        "attrs": {},
+                                        "children": [
+                                          "\n                      ",
+                                          {
+                                            "tag": "div",
+                                            "attrs": {},
+                                            "children": [
+                                              "\n                        ",
+                                              "\n                        ",
+                                              {
+                                                "tag": "h6",
+                                                "attrs": {},
+                                                "children": ["Exclusive Perks"]
+                                              },
+                                              "\n                      "
+                                            ]
+                                          },
+                                          "\n                      ",
+                                          {
+                                            "tag": "p",
+                                            "attrs": {},
+                                            "children": [
+                                              "Unlock \"Single Seat\" deals and complimentary perks at verified venues."
+                                            ]
+                                          },
+                                          "\n                    "
+                                        ]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      "\n    ",
+      "\n    \n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "source-card"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Experience the ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Future of Nightlife"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Secure matching, safe venues, and unforgettable nights. Join LUNARA today."
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "/contact"
+                },
+                "children": [" Plan Your Next Night"]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  }
+]

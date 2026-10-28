@@ -3,14 +3,14 @@ import Link from 'next/link';
 export default function CallToAction() {
   return (
     <section className="dating-cta">
-      <span className="dating-kicker">{'YOUR STORY IS STILL BEING WRITTEN.'}</span>
+      <span className="dating-kicker">{'THOUSANDS OF NIGHT OWLS TRUST LUNARA.'}</span>
       <h2>
-        {'Make room for'}
+        {'Join the Lunara'}
         <br />
-        <em>{'someone new.'}</em>
+        <em>{'movement.'}</em>
       </h2>
       <Link className="dating-button" href="/contact">
-        {'Say hello to Lunara ↗'}
+        {'Get started ↗'}
       </Link>
       <span className="cta-spark" aria-hidden="true">
         {'✳'}

@@ -39,8 +39,8 @@ export default function Hero() {
         </span>
         <article className="person-card person-one">
           <img
-            src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=700&q=85"
-            alt="Woman enjoying a sunny afternoon"
+            src="/images/generated/portrait-woman-v1.webp"
+            alt="Illustrative portrait of a woman at a sunlit café"
             fetchPriority="high"
           />
           <div className="person-info">
@@ -57,8 +57,8 @@ export default function Hero() {
         </article>
         <article className="person-card person-two">
           <img
-            src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=650&q=85"
-            alt="Smiling man outdoors"
+            src="/images/generated/portrait-man-v1.webp"
+            alt="Illustrative portrait of a man at a sunlit café"
           />
           <div className="person-info">
             <span>{'Always up for an adventure'}</span>
@@ -82,7 +82,9 @@ export default function Hero() {
         <span className="heart-doodle" aria-hidden="true">
           {'♡'}
         </span>
-        <span className="sample-label">{'Photos are illustrative.'}</span>
+        <span className="sample-label">
+          {'AI-generated images. Illustrative, not member profiles.'}
+        </span>
       </div>
     </section>
   );

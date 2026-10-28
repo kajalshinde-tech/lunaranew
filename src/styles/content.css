@@ -1,0 +1,210 @@
+.reference-content {
+  max-width: 1500px;
+  margin: auto;
+  padding: 0 5%;
+  overflow: hidden;
+}
+.reference-content .source-section {
+  padding: 65px 0;
+  border-bottom: 1px solid var(--line);
+}
+.reference-content .source-section:first-child {
+  padding-top: 65px;
+}
+.reference-content .container,
+.reference-content .container-fluid {
+  padding: 0;
+  max-width: 100%;
+}
+.reference-content .row {
+  row-gap: 24px;
+  margin-top: 20px;
+}
+.reference-content h2 {
+  margin: 16px 0 22px;
+  font-size: clamp(32px, 4vw, 57px);
+}
+.reference-content h3,
+.reference-content h4,
+.reference-content h5,
+.reference-content h6 {
+  font-size: 23px;
+  font-weight: 500;
+  margin: 20px 0 12px;
+  letter-spacing: -0.5px;
+}
+.reference-content p,
+.reference-content li {
+  color: var(--subtle);
+  line-height: 1.85;
+  font-size: 15px;
+}
+.reference-content p {
+  margin: 0 0 18px;
+}
+.reference-content a {
+  color: #9a67ae;
+  text-underline-offset: 4px;
+}
+.reference-content a:hover {
+  text-decoration: underline;
+}
+.reference-content img {
+  display: block;
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 18px;
+  margin: 15px 0;
+}
+.reference-content img[src*='Badge'],
+.reference-content img[src*='badge'],
+.reference-content img[src*='logo'],
+.reference-content img[src*='partners'] {
+  width: auto;
+  max-width: 180px;
+  max-height: 80px;
+  object-fit: contain;
+}
+.reference-content .source-card {
+  padding: 25px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  height: 100%;
+}
+.reference-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  display: block;
+  overflow-x: auto;
+}
+.reference-content th,
+.reference-content td {
+  padding: 15px;
+  border-bottom: 1px solid var(--line);
+  min-width: 120px;
+}
+.reference-content .source-section > div > h2 {
+  max-width: 800px;
+}
+.terms-document {
+  max-width: 1180px;
+  margin: auto;
+  padding: 65px 6%;
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr);
+  gap: 45px;
+}
+.terms-document > header {
+  grid-column: 1/-1;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 30px;
+}
+.terms-document h1 {
+  font-size: clamp(38px, 5vw, 64px);
+  letter-spacing: -2px;
+  margin: 20px 0;
+}
+.terms-document header p {
+  color: var(--subtle);
+}
+.terms-document nav {
+  align-self: start;
+  position: sticky;
+  top: 20px;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.terms-document nav h2 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+.terms-document nav a {
+  display: block;
+  font-size: 10px;
+  line-height: 1.6;
+  padding: 7px 0;
+  color: var(--subtle);
+}
+.terms-document article h2 {
+  font-size: 24px;
+  letter-spacing: -0.6px;
+  margin: 35px 0 18px;
+  scroll-margin-top: 25px;
+}
+.terms-document article p {
+  font-size: 14px;
+  line-height: 1.9;
+  color: var(--subtle);
+  margin-bottom: 14px;
+}
+.creative-nav nav {
+  gap: 20px;
+}
+.creative-nav nav a {
+  white-space: nowrap;
+}
+@media (min-width: 701px) and (max-width: 1150px) {
+  .creative-nav {
+    padding-inline: 3%;
+    gap: 14px;
+  }
+  .creative-nav nav {
+    gap: 12px;
+  }
+  .creative-nav nav a {
+    font-size: 12px;
+  }
+  .creative-nav .original-brand img {
+    width: 145px;
+  }
+  .creative-nav .nav-book {
+    display: none;
+  }
+}
+@media (max-width: 700px) {
+  .reference-content {
+    padding: 0 7%;
+  }
+  .reference-content .source-section {
+    padding: 40px 0;
+  }
+  .reference-content img {
+    max-height: 300px;
+  }
+  .terms-document {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 25px;
+    padding: 40px 7%;
+  }
+  .terms-document nav {
+    position: static;
+    max-height: 220px;
+    background: var(--panel);
+    padding: 20px;
+    border-radius: 15px;
+  }
+  .terms-document article h2 {
+    font-size: 22px;
+  }
+}
+
+.reference-content h1 {
+  font-size: clamp(42px, 5.5vw, 78px);
+  line-height: 1.05;
+  letter-spacing: -2px;
+  margin: 20px 0 26px;
+}
+.reference-content [class*='col-'] > .source-card {
+  height: 100%;
+}
+
+.terms-document nav h2 {
+  letter-spacing: 0;
+  line-height: 1.4;
+}
+.terms-document nav a {
+  letter-spacing: 0;
+}

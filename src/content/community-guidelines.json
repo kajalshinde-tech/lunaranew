@@ -1,0 +1,227 @@
+[
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "nav",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "ol",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/"
+                        },
+                        "children": ["Home"]
+                      }
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["Community Guidelines"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "h1",
+            "attrs": {},
+            "children": [
+              "Community ",
+              {
+                "tag": "span",
+                "attrs": {},
+                "children": ["Guidelines"]
+              }
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "LUNARA is a place for connection, fun, and respect. Let's keep it that way."
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "main",
+    "attrs": {
+      "className": "container"
+    },
+    "children": [
+      "\n\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": [
+          "\n      ",
+          {
+            "tag": "h3",
+            "attrs": {},
+            "children": [" Respect Everyone"]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "Treat others as you would like to be treated. Harassment, bullying, and hate speech have no place in LUNARA. Be kind, be inclusive, and be respectful of everyone's boundaries."
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": [
+          "\n      ",
+          {
+            "tag": "h3",
+            "attrs": {},
+            "children": ["✓", " Be Authentic"]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "LUNARA is built on trust. Use your real name, use your real photos, and be yourself. AI-generated photos, catfishing, and impersonation are strictly prohibited."
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": [
+          "\n      ",
+          {
+            "tag": "h3",
+            "attrs": {},
+            "children": [" Play Fair"]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "Respect the venues and their rules. Show up for your bookings, or cancel in advance. Use the payment split feature honestly and fairly with your group."
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": [
+          "\n      ",
+          {
+            "tag": "h3",
+            "attrs": {},
+            "children": [" Respect Privacy"]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "Don't share other people's private information without their consent. Respect the \"Venue Privacy\" choices of others and don't record or photograph people without permission."
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": [
+          "\n      ",
+          {
+            "tag": "h3",
+            "attrs": {},
+            "children": [" Zero Tolerance"]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "We have zero tolerance for illegal activities, violence, or sexual harassment. Any violation of these guidelines may lead to immediate account suspension or permanent ban."
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": [
+          "\n      ",
+          {
+            "tag": "h2",
+            "attrs": {},
+            "children": ["Together, We Own the Night."]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "By using LUNARA, you agree to uphold these values and help us build a safe, fun, and vibrant nightlife community."
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "/"
+            },
+            "children": ["Back to Home"]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  }
+]

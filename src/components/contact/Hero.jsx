@@ -17,9 +17,9 @@ export default function Hero() {
           <em>{'We’re listening.'}</em>
         </h1>
         <p>
-          {'A question, an idea, or just something on your mind?'}
+          {'We’d love to hear from you.'}
           <br />
-          {'There’s always room for a conversation.'}
+          {'Let’s start a conversation.'}
         </p>
         <a className="text-link" href="#write-to-us">
           {'Let’s talk '}

@@ -1,0 +1,680 @@
+[
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "nav",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "ol",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/"
+                        },
+                        "children": ["Home"]
+                      }
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["About Us"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "h1",
+            "attrs": {},
+            "children": [
+              "About ",
+              {
+                "tag": "span",
+                "attrs": {},
+                "children": ["LUNARA"]
+              }
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": ["The story behind the ultimate nightlife platform"]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "img",
+                        "attrs": {
+                          "src": "/images/reference/story.jpg",
+                          "alt": "LUNARA Story",
+                          "loading": "lazy"
+                        },
+                        "children": []
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Our Story"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h2",
+                        "attrs": {},
+                        "children": [
+                          "Born from the ",
+                          {
+                            "tag": "span",
+                            "attrs": {},
+                            "children": ["Love of the Night"]
+                          }
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "LUNARA was born from a simple idea: the nightlife experience shouldn't start at the door — it should start from your phone. We connect party lovers with the hottest clubs, premium bars, and exclusive events across India."
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Our platform empowers venues to reach new audiences and empowers you to discover, book, and experience the best nights of your life — all from one seamless app."
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              "250+",
+                              "\n                ",
+                              {
+                                "tag": "p",
+                                "attrs": {},
+                                "children": ["Partner Venues"]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              "50000+",
+                              "\n                ",
+                              {
+                                "tag": "p",
+                                "attrs": {},
+                                "children": ["Bookings Made"]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              "15+",
+                              "\n                ",
+                              {
+                                "tag": "p",
+                                "attrs": {},
+                                "children": ["Cities"]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      "\n    ",
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h3",
+                        "attrs": {},
+                        "children": ["Our Vision"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "To become the world's most trusted nightlife platform — where every night out is curated, premium, and unforgettable. We envision a future where discovering your next great night is as easy as a single tap."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h3",
+                        "attrs": {},
+                        "children": ["Our Mission"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "To bridge the gap between nightlife seekers and premium venues through cutting-edge technology, seamless booking, and authentic experiences. We help clubs grow their brand and give guests the VIP treatment they deserve."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": ["Why Choose LUNARA?"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "We bring the best of nightlife to your fingertips — sleek, fast, and premium."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Lightning-Fast Booking"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Reserve your spot in under 60 seconds. No calls, no waiting — just tap and go."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Exclusive Access"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Unlock members-only events, VIP tables, and premium experiences not found anywhere else."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Curated by Experts"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Our nightlife experts handpick every venue to ensure top-tier quality and unforgettable vibes."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["24/7 Concierge"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Our dedicated nightlife concierge team is always available to assist with your needs."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Secure Payments"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Bank-grade encryption protects every transaction. Instant refunds, zero hassle."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Venue Analytics"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Partner clubs get real-time insights, booking analytics, and growth tools to supercharge their brand."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      "\n    ",
+      "\n    \n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "source-card"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Join the ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["LUNARA Movement"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Thousands of night owls trust LUNARA. Be part of the revolution in nightlife discovery."
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/contact"
+                    },
+                    "children": [" Get Started"]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/booking"
+                    },
+                    "children": ["How It Works"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  }
+]

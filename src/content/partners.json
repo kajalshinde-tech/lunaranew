@@ -1,0 +1,1011 @@
+[
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "nav",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "ol",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/"
+                        },
+                        "children": ["Home"]
+                      }
+                    ]
+                  },
+                  "\n          ",
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": ["Partners"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "h1",
+            "attrs": {},
+            "children": [
+              "Our ",
+              {
+                "tag": "span",
+                "attrs": {},
+                "children": ["Partners"]
+              }
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": ["Premium venues that trust LUNARA for bookings and growth"]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Our Partner ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Venues"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Premium clubs and lounges in Pune and Mumbai — trusted and verified by LUNARA."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/partners/spice_factory.png",
+                              "alt": "Spice Factory",
+                              "loading": "lazy"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Spice Factory"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": ["\n                ", " Pune, Hinjewadi\n              "]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Bar & Kitchen"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/partners/cherry.png",
+                              "alt": "Cherry",
+                              "loading": "lazy"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Cherry"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": ["\n                ", " Pune, Hinjewadi\n              "]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Lounge & Nightclub"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/partners/penthouze.png",
+                              "alt": "Penthouze",
+                              "loading": "lazy"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Penthouze"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": ["\n                ", " Pune, KP\n              "]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Rooftop Lounge"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/partners/waters.png",
+                              "alt": "Waters",
+                              "loading": "lazy"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Waters"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": ["\n                ", " Pune, Mundhwa\n              "]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Bar & Grill"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/partners/dragonfly.png",
+                              "alt": "Dragonfly",
+                              "loading": "lazy"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Dragonfly"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": ["\n                ", " Mumbai, Sahar\n              "]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Luxury Lounge"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/partners/tryst.png",
+                              "alt": "Tryst",
+                              "loading": "lazy"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Tryst"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": ["\n                ", " Mumbai, Parel\n              "]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Nightclub"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/partners/public_q.png",
+                              "alt": "Public Q",
+                              "loading": "lazy"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Public Q"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": ["\n                ", " Pune, Hinjewadi\n              "]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Gastro Pub"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/partners/thikana.png",
+                              "alt": "Thikana",
+                              "loading": "lazy"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Thikana"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": ["\n                ", " Pune, Hinjewadi\n              "]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "span",
+                        "attrs": {},
+                        "children": ["Lounge & Bar"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-12"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "More partner venues coming soon.",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "/contact"
+                            },
+                            "children": ["Apply to join our network →"]
+                          }
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      "\n    ",
+      "\n    \n    ",
+      "\n    \n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-10"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h2",
+                        "attrs": {},
+                        "children": [
+                          "Become a ",
+                          {
+                            "tag": "span",
+                            "attrs": {},
+                            "children": ["LUNARA Partner"]
+                          }
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Join the fastest growing nightlife network. List your club or bar on LUNARA and get access to thousands of premium customers, powerful booking tools, and real-time analytics."
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "/contact"
+                            },
+                            "children": [" Apply Now"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "/about"
+                            },
+                            "children": [" Learn More"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "row"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "className": "col-md-4"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  "✓",
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["Free onboarding"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "className": "col-md-4"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  "✓",
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["Real-time dashboard"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "className": "col-md-4"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  "✓",
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["Dedicated support"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "className": "col-md-4"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  "✓",
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["Marketing exposure"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "className": "col-md-4"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  "✓",
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["Revenue analytics"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {
+                              "className": "col-md-4"
+                            },
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  "✓",
+                                  "\n                  ",
+                                  {
+                                    "tag": "span",
+                                    "attrs": {},
+                                    "children": ["Zero setup fees"]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "source-card"
+            },
+            "children": [
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": ["Lunara Office Contact Number"]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": ["Are you a venue looking to partner with us? Give us a call directly."]
+              },
+              "\n        ",
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "tel:+917823817313"
+                },
+                "children": ["+91 78238 17313"]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  }
+]

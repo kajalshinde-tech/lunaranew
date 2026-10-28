@@ -34,17 +34,19 @@ export default function Header() {
   return (
     <header className={`creative-nav ${open ? 'menu-open' : ''}`}>
       <Brand />
-      <nav id="site-nav" aria-label="Main navigation">
-        <Link href="/#discover">Discover</Link>
-        <Link href="/about" aria-current={pathname === '/about' ? 'page' : undefined}>
-          Our story
-        </Link>
-        <Link href="/safety-check" aria-current={pathname === '/safety-check' ? 'page' : undefined}>
-          Safety
-        </Link>
-        <Link href="/contact" aria-current={pathname === '/contact' ? 'page' : undefined}>
-          Get in touch
-        </Link>
+      <nav id="site-nav" aria-label="Main navigation" onClick={() => setOpen(false)}>
+        {[
+          ['/', 'Home'],
+          ['/about', 'About Us'],
+          ['/safety-check', 'Safety Check'],
+          ['/partners', 'Partners'],
+          ['/contact', 'Contact Us'],
+          ['/booking', 'Booking'],
+        ].map(([href, label]) => (
+          <Link key={href} href={href} aria-current={pathname === href ? 'page' : undefined}>
+            {label}
+          </Link>
+        ))}
       </nav>
       <div className="nav-actions">
         <button

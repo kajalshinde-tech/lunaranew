@@ -8,7 +8,7 @@ export default function Hero() {
           <Link href="/">{'Home'}</Link>
           {' / Safety Hub'}
         </div>
-        <span className="dating-kicker">{'CONNECTION STARTS WITH COMFORT'}</span>
+        <span className="dating-kicker">{'SAFETY CHECK'}</span>
         <h1>
           {'Your pace.'}
           <br />
@@ -16,11 +16,7 @@ export default function Hero() {
           <br />
           <em>{'Your peace of mind.'}</em>
         </h1>
-        <p>
-          {
-            'A little chemistry should never mean compromising your comfort. Here’s how to put yourself first, from the first hello to the first date.'
-          }
-        </p>
+        <p>{'Your safety is our priority. Please share your experience.'}</p>
         <a className="dating-button" href="#safety-guide">
           {'Find your safety guide '}
           <span>{'↓'}</span>

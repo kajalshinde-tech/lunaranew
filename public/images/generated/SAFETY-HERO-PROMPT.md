@@ -1,0 +1,5 @@
+# Safety hero
+
+Generated with built-in image_gen. Original: safety-shield-v1.png. Website asset: safety-shield-v1.webp.
+
+Use case: stylized-concept. Asset: hero image for Lunara dating app Safety Hub, wide horizontal 3:2 composition. Create a refined editorial 3D still life: a softly sculpted lavender shield with a small embossed checkmark, supported by an ivory rounded platform, a small dusty-rose heart beside it, two elegant softly glowing abstract orbit loops suggesting safe human connections, and a subtle frosted-glass privacy lock motif. Tactile matte ceramic and translucent glass materials, warm cream studio background, soft natural shadows, gentle diffused afternoon light, sophisticated minimalist composition with generous breathing room, premium and comforting rather than technological or aggressive. Warm cream, muted mauve, dusty rose, and soft plum palette matching a premium dating website. Shield is the clear central focal point, keep all important elements inside central 75% for rounded-corner crops. No people, no typography, no lettering, no UI, no logos, no watermark. Avoid neon, cyberpunk, circuit boards, maps, busy details, and harsh contrast.

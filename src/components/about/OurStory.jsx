@@ -6,28 +6,30 @@ export default function OurStory() {
       <div>
         <span className="dating-kicker">{'THE IDEA BEHIND LUNARA'}</span>
         <h2>
-          {'A world of people.'}
+          {'Our story.'}
           <br />
-          {'One '}
-          <em>{'real hello.'}</em>
+          {'Born from the '}
+          <em>{'love of the night.'}</em>
         </h2>
       </div>
       <div className="origin-copy">
         <p className="lead-copy">
-          {'Some of life’s best moments start with someone you haven’t met yet.'}
-        </p>
-        <p>
           {
-            'A shared favourite song. A conversation that runs a little longer. Someone who makes an ordinary evening feel different. We believe those moments deserve more room in our lives.'
+            'Lunara was born from a simple idea: the nightlife experience shouldn’t start at the door — it should start from your phone.'
           }
         </p>
         <p>
           {
-            'That’s the idea behind Lunara: a place to explore connections, express what makes you unique, and turn a little curiosity into a real-world plan.'
+            'We connect party lovers with the hottest clubs, premium bars, and exclusive events across India.'
           }
         </p>
-        <Link className="text-link" href="/#discover">
-          {'Discover your kind of connection ↗'}
+        <p>
+          {
+            'Our platform empowers venues to reach new audiences and helps you discover, book, and experience the best nights of your life — all from one seamless app.'
+          }
+        </p>
+        <Link className="text-link" href="/partners">
+          {'Discover our partner venues ↗'}
         </Link>
       </div>
     </section>

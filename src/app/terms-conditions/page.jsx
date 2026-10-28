@@ -1,98 +1,116 @@
 import PageShell from '@/components/layout/PageShell';
 import Link from 'next/link';
-
+import document from '@/content/terms-document.json';
 export const metadata = {
-  title: 'Terms & Conditions | LUNARA',
-  description: 'Terms & Conditions for LUNARA — Understand the rules of using our platform.',
+  title: 'Terms & Conditions — Lunara',
+  description:
+    'The complete Terms & Conditions governing Lunara, powered by SSKL WORLD, including platform use, safety, bookings, payments, and jurisdiction.',
 };
-
-export default function Page() {
+function Blocks({ blocks }) {
+  return blocks.map((block, index) => {
+    if (block.type === 'list') {
+      const Tag = block.ordered ? 'ol' : 'ul';
+      return (
+        <Tag key={index} type={block.ordered ? block.style : undefined}>
+          {block.items.map((item, i) => (
+            <li key={i}>{item}</li>
+          ))}
+        </Tag>
+      );
+    }
+    return (
+      <p key={index} className={block.emphasis ? 'terms-emphasis' : undefined}>
+        {block.text === 'Email: support@lunara.buzz' ? (
+          <>
+            Email: <a href="mailto:support@lunara.buzz">support@lunara.buzz</a>
+          </>
+        ) : block.text === 'Support: +91 78238 17313' ? (
+          <>
+            Support: <a href="tel:+917823817313">+91 78238 17313</a>
+          </>
+        ) : (
+          block.text
+        )}
+      </p>
+    );
+  });
+}
+export default function TermsPage() {
   return (
-    <PageShell className="legacy-page">
+    <PageShell className="creative-home dating-home compact-dating privacy-page terms-page">
       <main>
-        <section className="page-header">
-          <div className="container text-center">
-            <nav aria-label="breadcrumb">
-              <ol className="breadcrumb justify-content-center mb-3">
-                <li className="breadcrumb-item">
-                  <Link href="/">{'Home'}</Link>
-                </li>
-                <li className="breadcrumb-item active" aria-current="page">
-                  {'Terms & Conditions'}
-                </li>
-              </ol>
-            </nav>
-            <h1 className="animate-on-scroll">
-              {'Terms & '}
-              <span className="text-hollow">{'Conditions'}</span>
+        <header className="privacy-hero">
+          <div>
+            <span className="dating-kicker">LUNARA · POWERED BY SSKL WORLD</span>
+            <h1>
+              Terms &amp; <em>Conditions.</em>
             </h1>
-            <p className="animate-on-scroll">{'Effective Date: April 2026'}</p>
+            <p>The terms governing access to and use of the Lunara platform.</p>
+            <span className="privacy-updated">
+              <i className="bi bi-geo-alt" aria-hidden="true" />
+              Pune, Maharashtra, India
+            </span>
           </div>
-        </section>
-        <main
-          className="legal-content container mt-0 pt-5"
-          style={{ maxWidth: '900px', margin: '0 auto', paddingBottom: '80px' }}
-        >
-          <div
-            className="legal-card animate-on-scroll"
-            style={{
-              background: 'var(--bg-card)',
-              border: '1px solid rgba(255, 255, 255, 0.05)',
-              borderRadius: '24px',
-              padding: '3rem',
-              boxShadow: '0 20px 50px rgba(0, 0, 0, 0.3)',
-            }}
-          >
-            <div className="legal-section">
-              <h3>{'1. Acceptance of Terms'}</h3>
-              <p>
-                {
-                  'By accessing or using LUNARA, you agree to be bound by these Terms and Conditions and our Privacy Policy. If you do not agree to these terms, please do not use our services.'
-                }
-              </p>
-            </div>
-            <div className="legal-section">
-              <h3>{'2. Use of Services'}</h3>
-              <p>
-                {
-                  'You may use our services only as permitted by law. We may suspend or stop providing our services to you if you do not comply with our terms or policies or if we are investigating suspected misconduct.'
-                }
-              </p>
-            </div>
-            <div className="legal-section">
-              <h3>{'3. User Accounts'}</h3>
-              <p>
-                {
-                  'You may need a LUNARA account to use some of our services. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer.'
-                }
-              </p>
-            </div>
-            <div className="legal-section">
-              <h3>{'4. Booking and Payments'}</h3>
-              <p>
-                {
-                  'All bookings made through LUNARA are subject to availability. Prices for our services are subject to change without notice. We reserve the right at any time to modify or discontinue the service without notice.'
-                }
-              </p>
-            </div>
-            <div className="legal-section">
-              <h3>{'5. Limitation of Liability'}</h3>
-              <p>
-                {
-                  'LUNARA will not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly.'
-                }
-              </p>
-            </div>
-            <div className="legal-section">
-              <h3>{'6. Changes to Terms'}</h3>
-              <p>
-                {
-                  'We may modify these terms or any additional terms that apply to a service to, for example, reflect changes to the law or changes to our services. You should look at the terms regularly.'
-                }
-              </p>
-            </div>
+          <div className="privacy-hero-art" aria-hidden="true">
+            <span className="privacy-orbit" />
+            <span className="privacy-shield">
+              <i className="bi bi-journal-check" />
+            </span>
+            <span className="privacy-heart">
+              <i className="bi bi-check2" />
+            </span>
+            <span className="privacy-spark">✳</span>
           </div>
-        </main>
+        </header>
+        <div className="privacy-layout">
+          <aside className="privacy-sidebar">
+            <nav aria-label="Terms and conditions sections">
+              <span className="dating-kicker">
+                ON THIS PAGE · {document.sections.length} SECTIONS
+              </span>
+              <a href="#terms-introduction">
+                <i className="bi bi-file-earmark-text" aria-hidden="true" />
+                <span>Introduction</span>
+              </a>
+              {document.sections.map((section, index) => (
+                <a key={section.id} href={'#' + section.id}>
+                  <span className="terms-nav-number">{String(index + 1).padStart(2, '0')}</span>
+                  <span>{section.title}</span>
+                </a>
+              ))}
+            </nav>
+          </aside>
+          <article className="privacy-document" aria-label="Complete Terms and Conditions">
+            <section className="privacy-section" id="terms-introduction">
+              <h2>{document.title}</h2>
+              <div className="terms-source-metadata">
+                {document.metadata.map((line, index) => (
+                  <p key={index}>{line.text}</p>
+                ))}
+              </div>
+              <Blocks blocks={document.introduction} />
+            </section>
+            {document.sections.map((section, index) => (
+              <section className="privacy-section" id={section.id} key={section.id}>
+                <h2>
+                  <span className="terms-heading-number">{index + 1}.</span> {section.title}
+                </h2>
+                <Blocks blocks={section.blocks} />
+              </section>
+            ))}
+          </article>
+        </div>
+        <div className="privacy-bottom">
+          <span>
+            <i className="bi bi-journal-text" aria-hidden="true" />
+            Related Lunara policies
+          </span>
+          <div>
+            <Link href="/privacy-policy">Privacy Policy ↗</Link>
+            <Link href="/community-guidelines">Community Guidelines ↗</Link>
+            <Link href="/contact">Contact us ↗</Link>
+          </div>
+        </div>
       </main>
     </PageShell>
   );

@@ -1,50 +1,67 @@
 import PageShell from '@/components/layout/PageShell';
 import Link from 'next/link';
-
 export const metadata = {
-  title: 'Privacy Policy | LUNARA',
-  description: 'Privacy Policy for LUNARA — Learn how we protect your data and privacy.',
+  title: 'Privacy Policy — Lunara',
+  description: 'Learn how Lunara collects, uses, protects, and shares your information.',
 };
-
+const contents = [
+  ['information-collected', 'Information we collect', 'bi-person-vcard'],
+  ['information-use', 'How we use information', 'bi-sliders'],
+  ['data-security', 'Data security', 'bi-shield-lock'],
+  ['information-sharing', 'Information we share', 'bi-people'],
+  ['privacy-contact', 'Contact us', 'bi-envelope'],
+];
 export default function Page() {
   return (
-    <PageShell className="legacy-page">
+    <PageShell className="creative-home dating-home compact-dating privacy-page">
       <main>
-        <section className="page-header">
-          <div className="container text-center">
-            <nav aria-label="breadcrumb">
-              <ol className="breadcrumb justify-content-center mb-3">
-                <li className="breadcrumb-item">
-                  <Link href="/">{'Home'}</Link>
-                </li>
-                <li className="breadcrumb-item active" aria-current="page">
-                  {'Privacy Policy'}
-                </li>
-              </ol>
-            </nav>
-            <h1 className="animate-on-scroll">
-              {'Privacy '}
-              <span className="text-hollow">{'Policy'}</span>
+        <header className="privacy-hero">
+          <div>
+            <span className="dating-kicker">YOUR INFORMATION. YOUR PEACE OF MIND.</span>
+            <h1>
+              Privacy <em>Policy.</em>
             </h1>
-            <p className="animate-on-scroll">{'Last Updated: April 2026'}</p>
+            <p>How we collect, use, protect, and share your information.</p>
+            <span className="privacy-updated">
+              <i className="bi bi-calendar3" aria-hidden="true" />
+              Last updated: April 2026
+            </span>
           </div>
-        </section>
-        <main
-          className="legal-content container mt-0 pt-5"
-          style={{ maxWidth: '900px', margin: '0 auto', paddingBottom: '80px' }}
-        >
-          <div
-            className="legal-card animate-on-scroll"
-            style={{
-              background: 'var(--bg-card)',
-              border: '1px solid rgba(255, 255, 255, 0.05)',
-              borderRadius: '24px',
-              padding: '3rem',
-              boxShadow: '0 20px 50px rgba(0, 0, 0, 0.3)',
-            }}
-          >
-            <div className="legal-section">
-              <h3>{'1. Information We Collect'}</h3>
+          <div className="privacy-hero-art" aria-hidden="true">
+            <span className="privacy-orbit" />
+            <span className="privacy-shield">
+              <i className="bi bi-shield-lock" />
+            </span>
+            <span className="privacy-heart">
+              <i className="bi bi-heart" />
+            </span>
+            <span className="privacy-spark">✳</span>
+          </div>
+        </header>
+        <div className="privacy-layout">
+          <aside className="privacy-sidebar">
+            <nav aria-label="Privacy policy sections">
+              <span className="dating-kicker">ON THIS PAGE</span>
+              {contents.map(([id, label, icon], index) => (
+                <a href={'#' + id} key={id}>
+                  <i className={'bi ' + icon} aria-hidden="true" />
+                  <span>{label}</span>
+                  <small>{String(index + 1).padStart(2, '0')}</small>
+                </a>
+              ))}
+            </nav>
+            <div className="privacy-help">
+              <i className="bi bi-chat-heart" aria-hidden="true" />
+              <h2>Questions about privacy?</h2>
+              <p>We’re here to help you understand this policy.</p>
+              <a href="mailto:support@lunara.buzz">
+                support@lunara.buzz <span aria-hidden="true">↗</span>
+              </a>
+            </div>
+          </aside>
+          <article className="privacy-document" aria-label="Privacy policy">
+            <section className="privacy-section" id="information-collected">
+              <h2>{'1. Information We Collect'}</h2>
               <p>
                 {
                   'LUNARA collects information to provide better services to all our users. We collect information in the\n          following ways:'
@@ -64,9 +81,9 @@ export default function Page() {
                   }
                 </li>
               </ul>
-            </div>
-            <div className="legal-section">
-              <h3>{'2. How We Use Information'}</h3>
+            </section>
+            <section className="privacy-section" id="information-use">
+              <h2>{'2. How We Use Information'}</h2>
               <p>
                 {
                   'We use the information we collect from all our services to provide, maintain, protect and improve them, to\n          develop new ones, and to protect LUNARA and our users.'
@@ -77,9 +94,9 @@ export default function Page() {
                   'We also use this information to offer you tailored content – like giving you more relevant search results and\n          ads.'
                 }
               </p>
-            </div>
-            <div className="legal-section">
-              <h3>{'3. Data Security'}</h3>
+            </section>
+            <section className="privacy-section" id="data-security">
+              <h2>{'3. Data Security'}</h2>
               <p>
                 {
                   'We work hard to protect LUNARA and our users from unauthorized access to or unauthorized alteration,\n          disclosure or destruction of information we hold.'
@@ -93,9 +110,9 @@ export default function Page() {
                   }
                 </li>
               </ul>
-            </div>
-            <div className="legal-section">
-              <h3>{'4. Information We Share'}</h3>
+            </section>
+            <section className="privacy-section" id="information-sharing">
+              <h2>{'4. Information We Share'}</h2>
               <p>
                 {
                   'We do not share personal information with companies, organizations and individuals outside of LUNARA unless\n          one of the following circumstances applies:'
@@ -106,19 +123,27 @@ export default function Page() {
                 <li>{'For external processing.'}</li>
                 <li>{'For legal reasons.'}</li>
               </ul>
-            </div>
-            <div className="legal-section">
-              <h3>{'5. Contact Us'}</h3>
+            </section>
+            <section className="privacy-section" id="privacy-contact">
+              <h2>{'5. Contact Us'}</h2>
               <p>
                 {'If you have any questions about this Privacy Policy, please contact us at '}
-                <a href="mailto:privacy@lunara.buzz" className="text-neon-pink">
-                  {'privacy@lunara.buzz'}
-                </a>
+                <a href="mailto:support@lunara.buzz">{'support@lunara.buzz'}</a>
                 {'.'}
               </p>
-            </div>
+            </section>
+          </article>
+        </div>
+        <div className="privacy-bottom">
+          <span>
+            <i className="bi bi-journal-text" aria-hidden="true" />
+            More about using Lunara
+          </span>
+          <div>
+            <Link href="/terms-conditions">Terms &amp; Conditions ↗</Link>
+            <Link href="/community-guidelines">Community Guidelines ↗</Link>
           </div>
-        </main>
+        </div>
       </main>
     </PageShell>
   );

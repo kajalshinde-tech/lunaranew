@@ -1,0 +1,2746 @@
+[
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "id": "heroCarousel"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": ["\n        ", "\n        ", "\n        ", "\n      "]
+          },
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "img",
+                    "attrs": {
+                      "src": "/images/reference/story.jpg",
+                      "alt": "Nightclub DJ Performance",
+                      "loading": "lazy"
+                    },
+                    "children": []
+                  },
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "container"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h1",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Experience"]
+                              },
+                              " the Night",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              },
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Like Never Before"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "h1",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Experience"]
+                              },
+                              " the Night ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Like Never Before"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "Discover the hottest clubs, book premium tables, and unlock exclusive nightlife\n                experiences — all in one place."
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/#featured-clubs"
+                                },
+                                "children": ["✓", " Book Now"]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/#featured-clubs"
+                                },
+                                "children": [" Explore Clubs"]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/contact?subject=Booking%20support"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attrs": {
+                                      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg",
+                                      "alt": "App Store",
+                                      "loading": "lazy"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/contact?subject=Booking%20support"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attrs": {
+                                      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg",
+                                      "alt": "Google Play",
+                                      "loading": "lazy"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "img",
+                    "attrs": {
+                      "src": "/images/reference/music.jpg",
+                      "alt": "Dance Floor Experience",
+                      "loading": "lazy"
+                    },
+                    "children": []
+                  },
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "container"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h1",
+                            "attrs": {},
+                            "children": [
+                              "Where Music",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              },
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Meets the Soul"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "h1",
+                            "attrs": {},
+                            "children": [
+                              "Where Music ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Meets the Soul"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "Unleash the energy of the night with the world's most renowned DJs and\n                immersive sound systems."
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/safety-check"
+                                },
+                                "children": ["✓", " Safety Check"]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/about"
+                                },
+                                "children": [" Learn More"]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/contact?subject=Booking%20support"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attrs": {
+                                      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg",
+                                      "alt": "App Store",
+                                      "loading": "lazy"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/contact?subject=Booking%20support"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attrs": {
+                                      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg",
+                                      "alt": "Google Play",
+                                      "loading": "lazy"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "img",
+                    "attrs": {
+                      "src": "/images/reference/lounge.jpg",
+                      "alt": "Premium Bar Lounge",
+                      "loading": "lazy"
+                    },
+                    "children": []
+                  },
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "container"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h1",
+                            "attrs": {},
+                            "children": [
+                              "Unlock Exclusive",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              },
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["VIP Access"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "h1",
+                            "attrs": {},
+                            "children": [
+                              "Unlock Exclusive ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["VIP Access"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "From private tables to express entries, experience the ultimate luxury in\n                nightlife booking."
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/contact"
+                                },
+                                "children": [" Go VIP Now"]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/partners"
+                                },
+                                "children": [" Our Partners"]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/contact?subject=Booking%20support"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attrs": {
+                                      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg",
+                                      "alt": "App Store",
+                                      "loading": "lazy"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "a",
+                                "attrs": {
+                                  "href": "/contact?subject=Booking%20support"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attrs": {
+                                      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg",
+                                      "alt": "Google Play",
+                                      "loading": "lazy"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n    ",
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "id": "features",
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      "\n    ",
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": ["\n    "]
+      },
+      "\n\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Why ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["LUNARA?"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Your gateway to premium\n          nightlife. Seamless discovery, effortless booking, unforgettable nights."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Discover"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Browse curated nightclubs and bars near you with real-time availability and exclusive deals."
+                        ]
+                      },
+                      "\n            ",
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Booking"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Reserve tables, VIP areas and event passes instantly with secure online booking."
+                        ]
+                      },
+                      "\n            ",
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["VIP Access"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Unlock premium bottle service, backstage passes, and members-only perks."
+                        ]
+                      },
+                      "\n            ",
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["✓"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Secure"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Verified venues and an integrated ",
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "/safety-check"
+                            },
+                            "children": ["Safety Check"]
+                          },
+                          " with active safety guidelines for your\n              peace of mind."
+                        ]
+                      },
+                      "\n            ",
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "id": "how-it-works",
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {},
+        "children": [
+          "\n      ",
+          {
+            "tag": "img",
+            "attrs": {
+              "src": "https://images.unsplash.com/photo-1574391884720-bbc3740c59d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80&fm=webp",
+              "alt": "Nightclub Background",
+              "loading": "lazy"
+            },
+            "children": []
+          },
+          "\n      ",
+          "\n    "
+        ]
+      },
+      "\n\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "How It ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Works"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Booking your perfect night out takes just 4 simple steps. No\n          hassle, no waiting."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["1"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Search & Explore"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": ["Browse clubs by location, music, vibe, or event type."]
+                      },
+                      "\n            ",
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["2"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Choose Your Spot"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": ["Pick your table, VIP section, or event pass."]
+                      },
+                      "\n            ",
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["3"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Book & Pay"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": ["Confirm your reservation with secure payment."]
+                      },
+                      "\n            ",
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-3 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["4"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Enjoy the Night"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": ["Show up, skip the line, and own the night!"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "id": "featured-clubs",
+      "className": "source-section featured-clubs-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Featured ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Clubs"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Hand-picked venues with the best vibes, music, and experiences in\n          your city."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/generated/featured-club-neon-v1.webp",
+                              "alt": "Illustrative concept of a contemporary nightclub with violet lighting",
+                              "loading": "lazy",
+                              "className": "source-card"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "/partners"
+                            },
+                            "children": ["View Club"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h5",
+                            "attrs": {},
+                            "children": ["Club Neon"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [" Mumbai, Bandra West"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": ["★", " ", "★", " ", "★", " ", "★", " ", "★", " 4.5"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/generated/featured-sky-lounge-v1.webp",
+                              "alt": "Illustrative concept of a rooftop lounge at blue hour",
+                              "loading": "lazy",
+                              "className": "source-card"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "/partners"
+                            },
+                            "children": ["View Club"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h5",
+                            "attrs": {},
+                            "children": ["Sky Lounge"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [" Delhi, Connaught Place"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": ["★", " ", "★", " ", "★", " ", "★", " ", "★", " 5.0"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "img",
+                            "attrs": {
+                              "src": "/images/generated/featured-velvet-lounge-v1.webp",
+                              "alt": "Illustrative concept of an intimate velvet lounge bar",
+                              "loading": "lazy",
+                              "className": "source-card"
+                            },
+                            "children": []
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "/partners"
+                            },
+                            "children": ["View Club"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h5",
+                            "attrs": {},
+                            "children": ["Velvet Underground"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [" Bangalore, Indiranagar"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": ["★", " ", "★", " ", "★", " ", "★", " ", "★", " 4.0"]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "id": "packages",
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Premium ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Tiers"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n          ",
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Unlock an elite nightlife\n          experience with our premium packages."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["\n              ", "★", "\n            "]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": ["Free"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "$0",
+                          {
+                            "tag": "span",
+                            "attrs": {},
+                            "children": ["/mo"]
+                          }
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Venue Discovery"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Standard Booking"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Basic Safety Check"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Not included",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Priority Entry"]
+                              }
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/contact?subject=Booking%20support"
+                        },
+                        "children": ["GET STARTED"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["\n              MOST POPULAR"]
+                      },
+                      "\n\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["\n              ", "\n            "]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h3",
+                        "attrs": {},
+                        "children": ["Premium"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "$19",
+                          {
+                            "tag": "span",
+                            "attrs": {},
+                            "children": ["/mo"]
+                          }
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Priority Entry"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Split Payment Links"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Hidden Venue Option"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Premium Chat Support"]
+                              }
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/contact?subject=Booking%20support"
+                        },
+                        "children": ["Upgrade Now"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-lg-4 col-md-6"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": ["\n              ", "\n            "]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": ["Pro"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "$49",
+                          {
+                            "tag": "span",
+                            "attrs": {},
+                            "children": ["/mo"]
+                          }
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Priority Entry"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Split Payment Links"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["Hidden Venue Option"]
+                              }
+                            ]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "✓",
+                              " ",
+                              {
+                                "tag": "span",
+                                "attrs": {},
+                                "children": ["VIP Concierge"]
+                              }
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "a",
+                        "attrs": {
+                          "href": "/contact?subject=Booking%20support"
+                        },
+                        "children": ["GO PRO"]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-12"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {},
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "table",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              {
+                                "tag": "thead",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "th",
+                                        "attrs": {},
+                                        "children": ["\n                      Compare Features"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "th",
+                                        "attrs": {},
+                                        "children": [
+                                          "\n                      ",
+                                          {
+                                            "tag": "h5",
+                                            "attrs": {},
+                                            "children": ["Free"]
+                                          },
+                                          "\n                    "
+                                        ]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "th",
+                                        "attrs": {},
+                                        "children": [
+                                          "\n                      ",
+                                          {
+                                            "tag": "h5",
+                                            "attrs": {},
+                                            "children": ["Premium"]
+                                          },
+                                          "\n                    "
+                                        ]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "th",
+                                        "attrs": {},
+                                        "children": [
+                                          "\n                      ",
+                                          {
+                                            "tag": "h5",
+                                            "attrs": {},
+                                            "children": ["Pro"]
+                                          },
+                                          "\n                    "
+                                        ]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n                ",
+                              {
+                                "tag": "tbody",
+                                "attrs": {},
+                                "children": [
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Venue Discovery"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Standard Booking"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Basic Safety Check"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Priority Entry"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Split Payment Links"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Hidden Venue Option"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Premium Chat Support"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["VIP Concierge"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Private Planning"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["VIP Table Access"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                  ",
+                                  {
+                                    "tag": "tr",
+                                    "attrs": {},
+                                    "children": [
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["Exclusive Events"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["—"]
+                                      },
+                                      "\n                    ",
+                                      {
+                                        "tag": "td",
+                                        "attrs": {},
+                                        "children": ["✓"]
+                                      },
+                                      "\n                  "
+                                    ]
+                                  },
+                                  "\n                "
+                                ]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "id": "app-features",
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Mobile App ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Exclusives"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Experience advanced features designed for your safety and\n          convenience."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-md-6 col-lg-3"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["AI Image Check"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Advanced AI validation detects fake, AI-generated, or inappropriate content automatically."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-md-6 col-lg-3"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Venue Privacy"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Take control: choose to show or hide your posted venue at any time."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-md-6 col-lg-3"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Payment Split"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Planning a meet? Easily select YES, NO, or DISCUSS to handle group payments fairly."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-md-6 col-lg-3"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      "\n            ",
+                      {
+                        "tag": "h5",
+                        "attrs": {},
+                        "children": ["Private Planning"]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Plan privately with your squad, keep it private OR post it publicly when you're ready."
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "id": "safety-hub",
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Your Safety, ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["First."]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "We've built a suite of tools designed to keep you secure\n          throughout your nightlife journey."
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "row"
+            },
+            "children": [
+              "\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-md-6 col-lg-4"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": ["✓", "\n                  Verified"]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["AI Image Check"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "Know that the people you’re meeting are exactly who they say they are with\n                advanced AI validation blocking AI-generated content."
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-md-6 col-lg-4"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              "\n                ",
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Venue Privacy"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "If you want to keep your location quiet, just toggle the Hidden Venue\n                option. You always control who sees you."
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n\n        ",
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "className": "col-md-6 col-lg-4"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "className": "source-card"
+                    },
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "div",
+                            "attrs": {},
+                            "children": [
+                              "\n                ",
+                              "\n                ",
+                              {
+                                "tag": "div",
+                                "attrs": {},
+                                "children": ["Block & Report"]
+                              },
+                              "\n              "
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "div",
+                        "attrs": {
+                          "className": "source-card"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "h4",
+                            "attrs": {},
+                            "children": ["Block and Report"]
+                          },
+                          "\n              ",
+                          {
+                            "tag": "p",
+                            "attrs": {},
+                            "children": [
+                              "If anyone makes you feel unsafe or uncomfortable, report it quickly. We'll\n                handle the situation with immediate care."
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n\n      ",
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              "\n        ",
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "/safety-check"
+                },
+                "children": ["Visit our Safety\n          Hub "]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "section",
+    "attrs": {
+      "className": "source-section"
+    },
+    "children": [
+      "\n    ",
+      "\n    ",
+      "\n    \n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "className": "container"
+        },
+        "children": [
+          "\n      ",
+          {
+            "tag": "div",
+            "attrs": {
+              "className": "source-card"
+            },
+            "children": [
+              "\n        ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Ready to ",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": ["Own the Night?"]
+                  }
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Join thousands who book their perfect night through LUNARA. Premium clubs, verified experiences, zero hassle."
+                ]
+              },
+              "\n        ",
+              {
+                "tag": "div",
+                "attrs": {},
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/contact"
+                    },
+                    "children": [" GET STARTED NOW"]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n      "
+            ]
+          },
+          "\n    "
+        ]
+      },
+      "\n  "
+    ]
+  }
+]

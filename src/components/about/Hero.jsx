@@ -10,19 +10,19 @@ export default function Hero() {
         <span className="story-breadcrumb">{' / Our story'}</span>
         <span className="dating-kicker">{'A LITTLE ABOUT US'}</span>
         <h1 id="story-title">
-          {'More than a match.'}
+          {'About Lunara.'}
           <br />
-          {'A little more'}
+          {'Born from the love'}
           <br />
-          <em>{'human.'}</em>
+          <em>{'of the night.'}</em>
           <span className="story-spark" aria-hidden="true">
             {'✳'}
           </span>
         </h1>
         <p>
-          {'We’re here for the butterflies. The belly laughs.'}
+          {'The story behind the ultimate nightlife platform.'}
           <br />
-          {'The beautiful possibility of meeting someone new.'}
+          {'Discover, book, and experience nightlife across India.'}
         </p>
         <a className="dating-button" href="#our-story">
           {'Get to know Lunara '}

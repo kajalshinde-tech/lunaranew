@@ -3,16 +3,16 @@ import Link from 'next/link';
 export default function Belief() {
   return (
     <section className="story-belief">
-      <span className="dating-kicker">{'OUR REASON FOR BEING'}</span>
+      <span className="dating-kicker">{'OUR VISION'}</span>
       <h2>
-        {'Less chasing perfect.'}
+        {'Curated. Premium.'}
         <br />
-        {'More finding '}
-        <em>{'your people.'}</em>
+        {'Every night '}
+        <em>{'unforgettable.'}</em>
       </h2>
       <p>
         {
-          'Connection isn’t a checklist. It’s feeling comfortable enough to be yourself — and curious enough to let someone in.'
+          'To become the world’s most trusted nightlife platform, where discovering your next great night is as easy as a single tap.'
         }
       </p>
       <span aria-hidden="true" className="belief-heart">

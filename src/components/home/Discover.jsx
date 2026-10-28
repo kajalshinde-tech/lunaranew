@@ -43,8 +43,8 @@ export default function Discover() {
         </article>
         <article className="feature-photo">
           <img
-            src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=900&q=85"
-            alt="Friends sharing a moment together"
+            src="/images/generated/cafe-connection-v1.webp"
+            alt="Illustrative scene of two adults laughing over coffee"
             loading="lazy"
           />
           <div>

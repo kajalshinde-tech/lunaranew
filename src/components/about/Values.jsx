@@ -4,11 +4,11 @@ export default function Values() {
   return (
     <section className="story-values">
       <div className="values-heading">
-        <span className="dating-kicker">{'WHAT MATTERS TO US'}</span>
+        <span className="dating-kicker">{'WHY CHOOSE LUNARA?'}</span>
         <h2>
-          {'Good connections.'}
+          {'Premium experiences.'}
           <br />
-          <em>{'Better intentions.'}</em>
+          <em>{'Seamless booking.'}</em>
         </h2>
       </div>
       <div className="values-grid">
@@ -16,35 +16,27 @@ export default function Values() {
           <span className="value-symbol" aria-hidden="true">
             {'✳'}
           </span>
-          <span className="value-number">{'01 / AUTHENTICITY'}</span>
-          <h3>{'Come as you are.'}</h3>
-          <p>
-            {
-              'Your quirks, your passions, your actual personality. The best thing you can bring to a connection is yourself.'
-            }
-          </p>
+          <span className="value-number">{'01 / BOOKING'}</span>
+          <h3>{'Lightning-Fast Booking'}</h3>
+          <p>{'Reserve your spot in under 60 seconds. No calls, no waiting — just tap and go.'}</p>
         </article>
         <article>
           <span className="value-symbol" aria-hidden="true">
             {'♡'}
           </span>
-          <span className="value-number">{'02 / RESPECT'}</span>
-          <h3>{'Kindness is chemistry.'}</h3>
-          <p>
-            {
-              'Every person deserves to feel welcome and respected. Good conversations start with listening and respecting boundaries.'
-            }
-          </p>
+          <span className="value-number">{'02 / ACCESS'}</span>
+          <h3>{'Exclusive Access'}</h3>
+          <p>{'Unlock members-only events, VIP tables, and premium experiences.'}</p>
         </article>
         <article>
           <span className="value-symbol" aria-hidden="true">
             {'↗'}
           </span>
-          <span className="value-number">{'03 / POSSIBILITY'}</span>
-          <h3>{'Leave room for surprise.'}</h3>
+          <span className="value-number">{'03 / CURATION'}</span>
+          <h3>{'Curated by Experts'}</h3>
           <p>
             {
-              'Someone outside your usual circle. A new favourite place. There’s something wonderful about not knowing what’s next.'
+              'Our nightlife experts handpick every venue for top-tier quality and unforgettable vibes.'
             }
           </p>
         </article>
